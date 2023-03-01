@@ -1,0 +1,2 @@
+#cmakedefine enable_name
+#define project_name "@PROJECT_NAME@"
